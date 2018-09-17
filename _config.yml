@@ -105,8 +105,8 @@ analytics:
 author:
   name             : "Jack"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "iOS Developer. swift."
-  location         : "Wherever you go, whatever you want"
+  bio              : "iOS Developer"
+  location         : "Wherever you go"
   email            : "devjack78@gmail.com"
   links:
     - label: "Email"
