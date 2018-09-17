@@ -1,7 +1,7 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+title: "스위프트"
+date: 2018-09-17 08:26:28 -0400
+categories: iOS UIKit swift
 ---
 
 스위프트 테스트
